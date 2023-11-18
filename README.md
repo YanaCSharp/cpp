@@ -16,7 +16,3 @@ C++ has a number of features that make it a powerful and versatile programming l
 * **Templates:** C++ supports templates, which are a powerful feature that allows you to write generic code that can work with different data types.
 * **Operator overloading:** C++ supports operator overloading, which allows you to define custom behavior for operators such as `+`, `-`, and `*`.
 * **Exception handling:** C++ supports exception handling, which is a mechanism for dealing with errors that occur during program execution.
-
-**Getting Started with C++**
-
-There are a number of ways to get started with C++. If you are a beginner, I recommend starting with a beginner's tutorial. There are many tutorials available online and in books. Once you have a basic understanding of the language, you can start practicing by writing small programs.
